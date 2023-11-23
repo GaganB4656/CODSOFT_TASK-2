@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Libre+Baskerville&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Playpen+Sans&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+  .heading{
+    font-family: Agbalumo;
+}
+.py-3 {
+    padding-top: 1rem!important;
+    padding-bottom: 1rem!important;
+}
+.mb-4 {
+    margin-bottom: 1.5rem!important;
+}
+.justify-content-center {
+    justify-content: center!important;
+}
+.flex-wrap {
+    flex-wrap: wrap!important;
+}
+
+.aboutMe{
+    font-family: 'Playpen Sans', cursive;
+}
+
+.feature-icon-small {
+    width: 3rem;
+    height: 3rem;
+}
+
+.skillsTitle{
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+    color: rgb(11, 12, 12);
+}
